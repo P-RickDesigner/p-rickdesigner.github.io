@@ -74,8 +74,8 @@ textarea {
     $MAIN
 \*------------------------------------*/
 html {
-    background-color: #f6f9f9;
-    color: #95a4a9;
+    background-color: #0f0f0f;
+    color: #f1f1f1;
     font: 12px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body {
@@ -112,6 +112,7 @@ body {
         }
             .twitter {
                 background-image: url(../img/twitter.png);
+                color: #fff;
                 width: 20px;
                 height: 17px;
             }
